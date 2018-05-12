@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5203'
     url: http://www.gutenberg.org/2009/agents/5203
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13754#Evesham
 gutenberg_issued: '2004-10-14'
 gutenberg_type: Text
 identifiers:
